@@ -9,7 +9,7 @@
     "body-parser": "^1.17.1",
     "cors": "^2.8.3",
     "express": "^4.15.2",
-    "pug": "^2.0.0-rc.1"
+    "pug": "^3.0.0"
   },
   "scripts": {
     "package-deploy": "npm run set-config && npm run package && npm run deploy",
