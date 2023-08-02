@@ -14,7 +14,7 @@ recommonmark==0.4.0
 requests==2.18.4
 six==1.11.0
 snowballstemmer==1.2.1
-Sphinx==1.6.6
+Sphinx==3.3.0
 sphinx-rtd-theme==0.2.4
 sphinxcontrib-websupport==1.0.1
 typing==3.6.2
